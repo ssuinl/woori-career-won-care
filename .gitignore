@@ -1,0 +1,13 @@
+# data & models (not redistributable / too large)
+*.csv
+*.txt
+*.zip
+*.pkl
+*.parquet
+*.bin
+*.safetensors
+data/
+model/
+output/
+__pycache__/
+.ipynb_checkpoints/
